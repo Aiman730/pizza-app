@@ -1,4 +1,4 @@
-## Pizza App
+# Pizza App
 
 👉 Overview
 
