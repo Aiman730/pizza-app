@@ -2,7 +2,7 @@ Pizza App
 
 👉 Overview
 
-A full-stack Pizza ordering mobile application developed using **React Native**. The app includes secure **user authentication** with **Firebase**, real-time form validation using **Formik and Yup**, and a clean, user-friendly UI for both login and signup. It serves as a foundational structure for food delivery platforms, with Firebase handling backend tasks and user data securely. The navigation is implemented using React Navigation for a smooth screen transition experience. This project is ideal for learning and building scalable mobile food ordering apps.
+A full-stack Pizza ordering mobile application developed using React Native. The app includes secure user authentication with *Firebase*, real-time form validation using Formik and Yup, and a clean, user-friendly UI for both login and signup. It serves as a foundational structure for food delivery platforms, with Firebase handling backend tasks and user data securely. The navigation is implemented using React Navigation for a smooth screen transition experience. This project is ideal for learning and building scalable mobile food ordering apps.
 
 👉 Features
 
@@ -37,9 +37,9 @@ A full-stack Pizza ordering mobile application developed using **React Native**.
 
 For Android:
 
-  npx react-native run-android
+  • npx react-native run-android
 
 For iOS (Mac only):
 
-  npx react-native run-ios
+  • npx react-native run-ios
 
