@@ -7,9 +7,13 @@ A full-stack Pizza ordering mobile application developed using React Native. The
 👉 Features
 
 • User Sign-up & Login
+
 • Firebase Authentication
+
 • Form Validation (Formik & Yup)
+
 • React Native Navigation
+
 • Scalable and clean UI
 
 👉 Installation & Setup
